@@ -1,0 +1,24 @@
+{
+  "name": "temp",
+  "version": "0.0.1",
+  "private": true,
+  "main": "as1.js",
+  "scripts": {
+    "start": "node ./as1.js",
+    "test": "mocha"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.4",
+    "formidable": "^1.2.1",
+    "fs": "0.0.1-security",
+    "mocha": "^5.2.0",
+    "nodemon": "^1.18.8",
+    "path": "^0.12.7",
+    "request": "^2.88.0"
+  },
+  "description": "assignment",
+  "devDependencies": {},
+  "author": "Ritesh",
+  "license": "ISC"
+}
